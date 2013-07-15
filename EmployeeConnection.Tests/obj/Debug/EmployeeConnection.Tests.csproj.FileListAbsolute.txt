@@ -1,0 +1,1 @@
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\EmployeeConnection.Tests\obj\Debug\EmployeeConnection.Tests.csprojResolveAssemblyReference.cache

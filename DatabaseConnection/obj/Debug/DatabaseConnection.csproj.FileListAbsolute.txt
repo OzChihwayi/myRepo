@@ -1,0 +1,6 @@
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\EmployeeConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
