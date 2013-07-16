@@ -1,0 +1,14 @@
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\MyConsole.exe.config
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\MyConsole.exe
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\MyConsole.pdb
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\Newtonsoft.Json.dll
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\System.Web.Http.dll
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\System.Web.Http.SelfHost.dll
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\Newtonsoft.Json.xml
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\System.Web.Http.xml
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\bin\Debug\System.Web.Http.SelfHost.xml
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\obj\Debug\MyConsole.csprojResolveAssemblyReference.cache
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\obj\Debug\MyConsole.exe
+c:\users\oz\documents\visual studio 2012\Projects\MyConsole\MyConsole\obj\Debug\MyConsole.pdb
