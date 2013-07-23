@@ -1,0 +1,5 @@
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\SecondShot\EmployeeInterfaces\bin\Debug\EmployeeInterfaces.dll
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\SecondShot\EmployeeInterfaces\bin\Debug\EmployeeInterfaces.pdb
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\SecondShot\EmployeeInterfaces\obj\Debug\EmployeeInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\SecondShot\EmployeeInterfaces\obj\Debug\EmployeeInterfaces.dll
+C:\Users\Oz\Documents\Visual Studio 2012\Projects\SecondShot\EmployeeInterfaces\obj\Debug\EmployeeInterfaces.pdb

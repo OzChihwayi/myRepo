@@ -14,9 +14,8 @@ namespace EmployeeConnection.Models
         public EmployeeRepository()
         {
             Add(new Employee() {FirstName = "Oz", LastName = "Chihwayi", PhoneNumber = 091341107});
-            Add(new Employee() {FirstName = "Hendrik", LastName = "Chihwayi", PhoneNumber = 091341107});
-            Add(new Employee() {FirstName = "Oz", LastName = "Chihwayi", PhoneNumber = 091341107});
-         }
+           
+        }
         //public IEnumerable<Employee> GetAll()
         //{
         //    return employees;
